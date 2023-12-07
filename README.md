@@ -1,6 +1,3 @@
 i hate me
 
-<!---
-UserStillLoading/UserStillLoading is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- if you need me, then i apologize in advance. -->
